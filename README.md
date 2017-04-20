@@ -2,7 +2,7 @@
 
 ![The logo](/examples/kiterep-example-large.png?raw=true)
 
-This is the logo for the kite community in Jämtland, Sweden and surrounding areas). Its available in a fairly liberal MIT open source license. But we ask that you please ask [the community on Facebook](https://www.facebook.com/groups/kiterepubliken/) before using the logo for commercial purposes.
+This is the logo for the kite community in Jämtland, Sweden (and surrounding areas). Its available in a fairly liberal MIT open source license. But we ask that you please ask [the community on Facebook](https://www.facebook.com/groups/kiterepubliken/) before using the logo for commercial purposes.
 
 Original artwork by Max Calabrese.
 
